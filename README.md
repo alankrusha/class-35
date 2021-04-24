@@ -1,2 +1,2 @@
-# class-35
-fireBase, syncernization
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
